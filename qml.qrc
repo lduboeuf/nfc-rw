@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/readTagGreen.png</file>
+        <file>qml/Theme.qml</file>
+        <file>qml/main.qml</file>
+        <file>assets/beepread.wav</file>
+        <file>assets/beepsave.wav</file>
+        <file>qml/CustomButton.qml</file>
+        <file>qml/PulsatingImage.qml</file>
+    </qresource>
+</RCC>
